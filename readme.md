@@ -10,9 +10,11 @@
 | /food/ | POST | Insert object food |
 | /food/:id | GET | Update object food by id |
 | /food/:id | GET | Delete object food by id |
-| /food/:keyword | GET | Get all object containing keyword from twitter |
-| /food/:keyword | GET | Get all object containing keyword from twitter |
-| /recent  | GET | Get all twitter statuses from my timeline |
+| /restaurant/ | GET | Get all object restaurant |
+| /restaurant/:id | GET | Get object restaurant with id |
+| /restaurant/ | POST | Insert object restaurant |
+| /restaurant/:id | GET | Update object restaurant by id |
+| /restaurant/:id | GET | Delete object restaurant by id |
 
 
 # Usage:
